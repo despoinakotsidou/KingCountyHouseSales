@@ -1,6 +1,9 @@
 # King County Housing Market Analysis & Price Prediction
 
 ## Project Overview
+## Visualizations
+
+![King County Housing Market Dashboard](https://github.com/user-attachments/assets/e1c2c3d8-e96e-4439-a618-8a6dd9130793)
 
 This project analyzes the King County, Washington real estate market using machine learning to predict house prices and understand the key factors driving the housing market. Using over 21,000 house sales transactions from 2014-2015, the analysis explores spatial pricing patterns, property value determinants, and market trends across the region.
 
