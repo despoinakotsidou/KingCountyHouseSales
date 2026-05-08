@@ -137,23 +137,7 @@ python src/visualize_analysis.py
 python src/audit_fairness.py
 ```
 
-## Limitations & Future Work
 
-**Current Limitations:**
-- Training data limited to 2014-2015 period - market conditions have evolved significantly
-- Geographic scope: King County only (Seattle metro area) - results may not generalize to other markets
-- Limited incorporation of neighborhood amenities (schools, parks, walkability, public transit)
-- No consideration of external factors (interest rates, economic indicators, school quality)
-- Property maintenance history and renovation status not available
-- Model captures historical pricing patterns, including any embedded biases
-
-**Future Enhancements:**
-- Time series modeling to account for market trends and seasonality
-- Integration of neighborhood-level features (school districts, crime rates, walkability scores)
-- Dynamic pricing models that adjust for market conditions
-- Causal inference to distinguish correlation from causation
-- Address-level data for fine-grained spatial analysis
-- Incorporate non-traditional features (property photos, listing descriptions via NLP)
 
 ---
 
@@ -286,13 +270,7 @@ This project is committed to:
 - **Privacy:** Protection of sensitive homeowner and transaction information
 - **Community Impact:** Consideration of effects on housing affordability and neighborhood stability
 
-## Contributing
 
-If you find issues with bias, fairness, or privacy in this analysis, please report them immediately.
-
-## License
-
-[Your License]
 
 ---
 
