@@ -276,4 +276,4 @@ This project is committed to:
 
 **Author:** Despi Kotsidou  
 **Contact:** dkotsidou@gmail.com  
-**Last Updated:** [Date]
+**Last Updated:** 08 of May 2026
